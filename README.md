@@ -2,8 +2,8 @@
 
 - 📍  I'm living in the city Campos dos Goytacazes, in the state of Rio de Janeiro, in the country Brazil / Estou vivendo em Campos dos Goytacazes, Rio de Janeiro, Brasil
 - 🔭 I don't have a job at the moment / Não tenho emprego no momento
-- 🌱 I’m currently learning JavaScript / Atualmente estou aprendendo JavaScript
-- 👯 I’m looking to collaborate on everything to get a lot of experience / Procuro colaborar em tudo para obter bastante experiência
+- 🌱 I’m currently learning HTML/CSS / Atualmente estou aprendendo HTML/CSS
+- 👨‍💻 I’m looking to collaborate on everything to get a lot of experience / Procuro colaborar em tudo para obter bastante experiência
 
 <div align="center">
   <a href="https://github.com/vhs4">
