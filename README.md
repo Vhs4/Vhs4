@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vhs4-React" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  
   <img align="center" alt="Vhs4-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   ![Snake animation](https://github.com/vhs4/vhs4/blob/output/github-contribution-grid-snake.svg)
