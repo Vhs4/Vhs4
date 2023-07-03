@@ -7,7 +7,7 @@ Visit my portfolio by clicking <a href="https://portfoliovhs4.netlify.app/">here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-9b7225250/)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,py,bootrstrap,vuehtml,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,bootstrap,vue,html,css)](https://skillicons.dev)
 
 # Frameworks and Libraries
 
