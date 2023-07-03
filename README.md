@@ -18,8 +18,7 @@ Visit my portfolio by clicking <a href="https://portfoliovhs4.netlify.app/">here
 [![Tools and Others](https://skillicons.dev/icons?i=git,github,vscode,figma,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vhs4&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vhs4&theme=algolia&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vhs4&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
