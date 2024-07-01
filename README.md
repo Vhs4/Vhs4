@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm vhs4 but my name is Victor Hugo / Olá! eu sou o vhs4, mas meu nome é Victor Hugo<br>📍 I'm living in the city Campos dos Goytacazes, in the state of Rio de Janeiro, in the country Brazil / Estou vivendo em Campos dos Goytacazes, Rio de Janeiro, Brasil<br>🔭 I work at Elastic Code / Eu trabalho na Elastic Code<br>🌱 I’m currently learning NodeJs / Atualmente estou aprendendo NodeJs<br>👨‍💻 I’m looking to collaborate on everything to get a lot of experience / Procuro colaborar em tudo para obter bastante experiência <br>
+Hi! I'm vhs4 but my name is Victor Hugo / Olá! eu sou o vhs4, mas meu nome é Victor Hugo<br>📍 I'm living in the city Campos dos Goytacazes, in the state of Rio de Janeiro, in the country Brazil / Estou vivendo em Campos dos Goytacazes, Rio de Janeiro, Brasil<br>🔭 I don't currently work / Eu não trabalho atualmente<br>🌱 I’m currently learning NodeJs / Atualmente estou aprendendo NodeJs<br>👨‍💻 I’m looking to collaborate on everything to get a lot of experience / Procuro colaborar em tudo para obter bastante experiência <br>
 Visit my portfolio by clicking <a href="https://portfoliovhs4.netlify.app/">here!</a> / Visite meu portfólio clicando: <a href="https://portfoliovhs4.netlify.app/">aqui!</a><br>
 
 
