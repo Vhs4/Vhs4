@@ -1,25 +1,31 @@
-# 💫 About Me:
-Hi! I'm vhs4 but my name is Victor Hugo / Olá! eu sou o vhs4, mas meu nome é Victor Hugo<br>📍 I'm living in the city Campos dos Goytacazes, in the state of Rio de Janeiro, in the country Brazil / Estou vivendo em Campos dos Goytacazes, Rio de Janeiro, Brasil<br>🔭 I don't currently work / Eu não trabalho atualmente <br>🌱 I’m currently learning NodeJs / Atualmente estou aprendendo NodeJs<br>👨‍💻 I’m looking to collaborate on everything to get a lot of experience / Procuro colaborar em tudo para obter bastante experiência <br>
-Visit my portfolio by clicking <a href="https://portfoliovhs4.netlify.app/">here!</a> / Visite meu portfólio clicando: <a href="https://portfoliovhs4.netlify.app/">aqui!</a><br>
+👋 Olá, eu sou Victor Hugo! Sou um desenvolvedor de software **que atualmente está a procura de emprego** 🎖️ e sou focado em utilizar a tecnologia para causar impactos significativos na área da tecnologia e além.
 
+## Sobre Mim
+Com um histórico de serviço militar e liderança significativa na educação tecnológica, trago uma combinação única de disciplina, visão estratégica e habilidade técnica para o mundo da programação. Minha paixão está em desenvolver soluções de software que não apenas resolvem problemas, mas também criam oportunidades para aqueles que estão em transição do meio militar para a vida civil.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-9b7225250/)
+## Habilidades técnicas 🛠️
+- **Linguagens:** TypeScript, JavaScript, Python
+- **Frameworks & Bibliotecas:** React, Next.js, Node.js, Vuejs
+- **Ferramentas & Plataformas:** AWS, GitHub, Docker, Wordpress, Vercel
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,babel,gulp,md,html,css)](https://skillicons.dev)
+## Principais projetos e certificações 📚
+- **[Nebulab](https://www.spaceappschallenge.org/2023/find-a-team/triplice-soldiers/):** Liderei o desenvolvimento de um MVP de uma rede social para cientistas, fomos campeões do hackathon da NASA na etapa local e fomos finalistas com nominação global da NASA e um prêmio da agência espacial brasileira.
+- **[Icare Finance](https://www.linkedin.com/feed/update/urn:li:activity:7208981105004228610/):** Atualmente estou liderando o desenvolvimento deste projeto que é um ERP para parceiros do Ifood, trata-se de um projeto acadêmico em parceria com a FIAP e o Ifood.
+- **[Marketing digital - USP](https://coursera.org/share/72b05313d32daf18f96e7a77477e0c02):** Concluí um curso de marketing digital da USP através da Coursera e sou certificado em marketing digital por eles.
 
-# Frameworks and Libraries
+Você pode ver meu portfólio [aqui](https://portfoliovhs4.vercel.app/).
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap)](https://skillicons.dev)
+## Liderança & Advocacia 🌟
+- **Liderança de equipes:** Na Faculdade tive a oportunidade de liderar em diversos projetos, assim como em hackathon.
+- **Engajamento Comunitário:** Gosto de contribuir em comunidades, como grupos de estudos de programação em diversas redes sociais. 🤝
+- **Palestras:** Já tive a oportunidade de palestrar na minha antiga escola no ensino médio sobre como nos dias de hoje podemos nos proteger de ataques de hackers. 🎤
 
-# Tools and Others
+## Objetivos profissionais 🚀
+- **Desenvolvimento de Carreira:** Empenhado em expandir minha carreira no desenvolvimento de software, focando em posições que capitalizem minha experiência em liderança e minhas capacidades técnicas para gerar soluções tecnológicas de alto impacto.
+- **Aprendizado Contínuo:** Engajado no crescimento profissional constante, mantendo-me informado sobre as mais recentes inovações tecnológicas e aprimorando minhas habilidades de programação.
 
-[![Tools and Others](https://skillicons.dev/icons?i=git,github,vscode,figma,)](https://skillicons.dev)
+## Conecte-se comigo 📬
+- 📫 [Email](mailto:contatovhs4@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/vhs4)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vhs4&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vhs4&icon=0&color=0)](https://visitcount.itsvg.in)
+Estou ansioso para colaborar em projetos que estão na interseção da tecnologia e do bem social. Vamos nos conectar! 🌍
