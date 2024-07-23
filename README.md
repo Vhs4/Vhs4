@@ -28,4 +28,4 @@ Você pode ver meu portfólio [aqui](https://portfoliovhs4.vercel.app/).
 - 📫 [Email](mailto:contatovhs4@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/vhs4)
 
-Estou ansioso para colaborar em projetos que estão na interseção da tecnologia e do bem social. Vamos nos conectar! 🌍
+Gosto muito de colaborar em projetos que podem impactar a sociedade e ajudar diversas pessoas. Vamos nos conectar! 🌍
