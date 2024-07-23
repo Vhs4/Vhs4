@@ -1,7 +1,7 @@
 👋 Olá, eu sou Victor Hugo! Sou um desenvolvedor de software **que atualmente está a procura de emprego** 🎖️ e sou focado em utilizar a tecnologia para causar impactos significativos na área da tecnologia e além.
 
 ## Sobre Mim
-Com um histórico de serviço militar e liderança significativa na educação tecnológica, trago uma combinação única de disciplina, visão estratégica e habilidade técnica para o mundo da programação. Minha paixão está em desenvolver soluções de software que não apenas resolvem problemas, mas também criam oportunidades para aqueles que estão em transição do meio militar para a vida civil.
+Tive minha primeira impressão na tecnologia desde quando era criança, e desde os 17 anos venho me aventurando na área da programação. Gosto de praticar esportes, sou atleta de Taekwondo ITF e faço academia, mais focado em alto rendimento nas lutas.
 
 ## Habilidades técnicas 🛠️
 - **Linguagens:** TypeScript, JavaScript, Python
