@@ -1,4 +1,4 @@
-👋 Olá, eu sou Victor Hugo! Sou um desenvolvedor de software **que atualmente está a procura de emprego** 🎖️ e sou focado em utilizar a tecnologia para causar impactos significativos na área da tecnologia e além.
+👋 Olá, eu sou Victor Hugo! Sou um desenvolvedor de software 🎖️ e sou focado em utilizar a tecnologia para causar impactos significativos na área da tecnologia e além.
 
 ## Sobre Mim
 Tive minha primeira impressão na tecnologia desde quando era criança, e desde os 17 anos venho me aventurando na área da programação. Gosto de praticar esportes, sou atleta de Taekwondo ITF e faço academia, mais focado em alto rendimento nas lutas.
