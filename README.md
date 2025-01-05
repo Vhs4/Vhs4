@@ -10,8 +10,9 @@ Tive minha primeira impressão na tecnologia desde quando era criança, e desde 
 
 ## Principais projetos e certificações 📚
 - **[Nebulab](https://www.spaceappschallenge.org/2023/find-a-team/triplice-soldiers/):** Liderei o desenvolvimento de um MVP de uma rede social para cientistas, fomos campeões do hackathon da NASA na etapa local e fomos finalistas com nominação global da NASA e um prêmio da agência espacial brasileira.
-- **[Icare Finance](https://www.linkedin.com/feed/update/urn:li:activity:7208981105004228610/):** Atualmente estou liderando o desenvolvimento deste projeto que é um ERP para parceiros do Ifood, trata-se de um projeto acadêmico em parceria com a FIAP e o Ifood.
+- **[Icare Finance](https://www.linkedin.com/feed/update/urn:li:activity:7208981105004228610/):** Liderei o desenvolvimento deste projeto que é um ERP para restaurantes parceiros do Ifood, trata-se de um projeto acadêmico em parceria com a FIAP e o Ifood.
 - **[Marketing digital - USP](https://coursera.org/share/72b05313d32daf18f96e7a77477e0c02):** Concluí um curso de marketing digital da USP através da Coursera e sou certificado em marketing digital por eles.
+- **[AWS Cloud Practitioner - AWS](https://www.credly.com/badges/8aec6630-ea1d-40a6-8620-068f7545b60a):** Fui aprovado em uma avaliação oficial da AWS de 65 questões com nota mínima de 70% de acertos que comprova minhas habilidades e conhecimentos em nuvem e fui certificado por eles.
 
 Você pode ver meu portfólio [aqui](https://portfoliovhs4.vercel.app/).
 
