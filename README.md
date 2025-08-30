@@ -5,7 +5,7 @@ Tive minha primeira impressão na tecnologia desde quando era criança, e desde 
 
 ## Habilidades técnicas 🛠️
 - **Linguagens:** TypeScript, JavaScript, Python
-- **Frameworks & Bibliotecas:** React, Next.js, Node.js, Vuejs
+- **Frameworks & Bibliotecas:** React, Next.js, Nest, Node.js, Vuejs
 - **Ferramentas & Plataformas:** AWS, GitHub, Docker, Wordpress, Vercel
 
 ## Principais projetos e certificações 📚
