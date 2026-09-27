@@ -92,7 +92,7 @@ AI-powered app built for the 2023 NASA Space Apps Challenge. Achieved regional w
 
 ## Education
 
-**FIAP** · B.Tech in Systems Analysis & Development — Full Stack, Apps & AI (2024 – 2025)
+**FIAP** · Associate Degree in Systems Analysis & Development — Full Stack, Apps & AI (2024 – 2025)
 
 ---
 
