@@ -42,7 +42,7 @@ I've also worked as an independent contractor, taking projects from greenfield t
 **Cloud & Infrastructure**
 `AWS` `GCP` `Docker` `Kubernetes` `CI/CD` `PostgreSQL`
 
-**Frontend** *(when needed)*
+**Frontend**
 `React` `Next.js` `Vue.js`
 
 ---
